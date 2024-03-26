@@ -1,0 +1,14 @@
+@APIInjDependencias_HostAddress = https://localhost:7257
+
+GET {{APIInjDependencias_HostAddress}}/singleton/
+Accept: application/json
+
+###
+
+GET {{APIInjDependencias_HostAddress}}/scoped/
+Accept: application/json
+
+###
+
+GET {{APIInjDependencias_HostAddress}}/transient/
+Accept: application/json

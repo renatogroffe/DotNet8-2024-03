@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34310.174
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APIContagem", "APIContagem.csproj", "{61064E8D-7A0C-45A2-84D1-C27416E597EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{61064E8D-7A0C-45A2-84D1-C27416E597EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61064E8D-7A0C-45A2-84D1-C27416E597EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61064E8D-7A0C-45A2-84D1-C27416E597EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61064E8D-7A0C-45A2-84D1-C27416E597EF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A77ABA2D-7A7E-46C9-A4D2-02495B807D2F}
+	EndGlobalSection
+EndGlobal

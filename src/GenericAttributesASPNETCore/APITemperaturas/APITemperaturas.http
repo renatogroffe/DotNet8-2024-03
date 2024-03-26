@@ -1,0 +1,16 @@
+@APITemperaturas_HostAddress = http://localhost:5280
+
+###
+
+GET {{APITemperaturas_HostAddress}}/conversortemperaturas/Fahrenheit/32
+Accept: application/json
+
+###
+
+GET {{APITemperaturas_HostAddress}}/conversortemperaturas/Fahrenheit/212
+Accept: application/json
+
+###
+
+GET {{APITemperaturas_HostAddress}}/conversortemperaturas/Fahrenheit/72
+Accept: application/json

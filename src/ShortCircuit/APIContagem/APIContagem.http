@@ -1,0 +1,23 @@
+@APIContagem_HostAddress = http://localhost:5208
+
+###
+
+# @name getContador
+GET {{APIContagem_HostAddress}}/contador/
+Accept: application/json
+
+###
+
+# @name getStatus
+GET {{APIContagem_HostAddress}}/status/
+Accept: application/json
+
+###
+
+# @name testRobots_txt
+GET {{APIContagem_HostAddress}}/robots.txt
+
+###
+
+# @name testFavicon_ico
+GET {{APIContagem_HostAddress}}/favicon.ico
